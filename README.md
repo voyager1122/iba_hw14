@@ -24,3 +24,13 @@ sudo ./terraform destroy
 ![screenshot](./dev_vpc.png)
 
 ![screenshot](./prod_vpc.png)
+
+
+
+## Create rds with random pass saved in parameter store
+
+![screenshot](./aws-rds-db.png)
+
+![screenshot](./aws-parameter-store.png)
+
+![screenshot](./aws-parameter-store-pass.png)
